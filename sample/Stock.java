@@ -13,7 +13,7 @@ public class Stock {
 		this.storeNo = storeNo;
 		this.quantity = quantity;
 	}
-
+	/** 倉庫番号をgetする */
 	public int getStoreNo() {
 		return storeNo;
 	}
