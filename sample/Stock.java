@@ -14,6 +14,7 @@ public class Stock {
 		this.quantity = quantity;
 	}
 
+	/** 倉庫番号を取得する */
 	public int getStoreNo() {
 		return storeNo;
 	}
